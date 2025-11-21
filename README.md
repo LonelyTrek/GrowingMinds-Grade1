@@ -42,6 +42,44 @@ This work is licensed under a **Creative Commons Attribution-NonCommercial-Share
 *   ✅ **Free to share:** You can copy and redistribute the material. (欢迎分享)
 *   ❌ **No Commercial Use:** You may **NOT** use this material for commercial purposes (e.g., selling courses, tutoring materials). (严禁商用，如培训机构打包售卖)
 
+
+
+---
+
+## 🤖 AI-Assisted Learning (AI 辅助教学)
+
+We use Large Language Models (LLMs) to generate personalized educational content. You can find our prompt library in `05-AI-Prompts/`.
+
+我们使用大语言模型（LLM）生成个性化的教育内容。你可以在 `05-AI-Prompts/` 目录下找到我们的提示词库。
+
+### How to use (如何使用):
+1.  **Math Tutor (`math-tutor.md`)**: Copy this prompt to ChatGPT/Claude to generate "Bruner Style" math stories.
+    *   *Usage*: "I need a story for teaching 8+5 using the make-ten method."
+2.  **Logic Master (`logic-master.md`)**: Use this to generate age-appropriate logic puzzles.
+    *   *Usage*: "Create a logic grid puzzle about 3 friends and their favorite fruits."
+3.  **Weekly Reviewer (`weekly-reviewer.md`)**: Paste your weekly log into the AI to get a professional review.
+
+## 📋 Templates (模版)
+
+Start your week by copying these templates:
+*   **Daily Log**: `templates/daily-log-template.md` -> Copy to your weekly folder.
+*   **Weekly Plan**: `templates/weekly-plan-template.md` -> Use for high-level planning.
+
+---
+
+## 🌲 The Wild Classroom (户外课堂)
+
+We dedicate Saturdays to **Outdoor Inquiry**. This is not just hiking; it is "Science in the Field".
+
+### Workflow (流程):
+1.  **Read the Whitepaper**: Understand the methodology in `04-Outdoor-Log/whitepaper.md`.
+2.  **Prepare the Mission**:
+    *   Copy `04-Outdoor-Log/field-guide-template.md` to your weekly folder.
+    *   OR use the pre-made mission (e.g., `Week12-Routine/outdoor-mission.md`).
+3.  **Go Outside**: Bring a clipboard and pencil. Execute the "Observe - Wonder - Collect" cycle.
+
+
+
 ---
 
 ## 🌟 Contribution (如何参与)
